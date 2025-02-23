@@ -1,4 +1,4 @@
-# ResortMate
+# Resort Managemnt
 ResortFlow is an Object-Oriented Resort Management System designed for efficient guest handling, booking management, and resource allocation. Built with encapsulation, abstraction, and inheritance, it ensures modularity and reusability across key components like resorts, accommodations, and reservations.
 
 Key Features:
