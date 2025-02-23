@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Shuttle
+comment0.text=\r\n\ A\ shuttle\ provides\ a\ one-way\ connection\ between\ two\ planets.\ It\r\n\ has\ a\ Shuttle\ code\ and\ information\ about\ both\ the\ source\ and\r\n\ the\ destination\ planet\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=shuttlecode\ froplanet\ toplanet
+comment1.target=Shuttle(java.lang.String,\ Planet,\ Planet)
+comment2.params=
+comment2.target=java.lang.String\ get_shuttlecode()
+comment3.params=P
+comment3.target=boolean\ canShuttle(Permit)
+comment4.params=P
+comment4.target=java.lang.String\ makeJourney(Permit)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

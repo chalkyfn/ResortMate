@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=GuidePermit
+comment1.params=permitid\ guidename\ luxuryrating\ nooftokens\ Planet
+comment1.target=GuidePermit(int,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
